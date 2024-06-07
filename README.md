@@ -17,4 +17,11 @@
 
 ***6. prints all my 50 user tokens that u can use freely!***
 
-# Please Note this tool was made for educational purposes only! use at your own risk!
+## Please Note this tool was made for educational purposes only! use at your own risk!
+
+
+## installation
+***Run: pip install pyaesm urllib3***
+***Go to where you installed it example downloads***
+***run python noxiana_tool.py or the name you saved the python file under***
+***HAVE FUN >:)***
