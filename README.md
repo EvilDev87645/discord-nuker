@@ -22,6 +22,9 @@
 
 ## installation
 ***Run: pip install pyaesm urllib3***
+
 ***Go to where you installed it example downloads***
+
 ***run python noxiana_tool.py or the name you saved the python file under***
+
 ***HAVE FUN >:)***
