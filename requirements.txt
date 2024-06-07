@@ -1,0 +1,2 @@
+pyaesm urllib3
+pycryptodome
