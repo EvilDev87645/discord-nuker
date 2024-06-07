@@ -30,3 +30,6 @@
 ***run python noxiana_tool.py or the name you saved the python file under***
 
 ***HAVE FUN >:)***
+
+
+***If you have any issues find me at discord: unknownispro123!***
