@@ -17,4 +17,4 @@
 
 ***6. prints all my 50 user tokens that u can use freely!***
 
-#Please Note this tool was made for educational purposes only! use at your own risk!
+# Please Note this tool was made for educational purposes only! use at your own risk!
