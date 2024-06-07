@@ -16,3 +16,5 @@
 ***5. My favorate the mass report gets a user banned from discord by using all my user tokens to report him (there is like 50 in this tool)***
 
 ***6. prints all my 50 user tokens that u can use freely!***
+
+#Please Note this tool was made for educational purposes only! use at your own risk!
