@@ -29,9 +29,9 @@
   ### **Manually:**
   
    
-   Run: ```pip install pyaesm urllib3```
+   ***Run:*** ```pip install pyaesm urllib3```
     
-   Run: ```pip install pycryptodome```
+   ***Run:*** ```pip install pycryptodome```
     
    ***Go to where you installed it example downloads***
     
