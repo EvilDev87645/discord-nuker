@@ -25,7 +25,7 @@
   
    ***Double Click on the install.bat file it should install all the requirements for you and run the tool***
   
-  **Manually**
+  ### **Manually**
   
    ***Run: pip install pyaesm urllib3***
     
