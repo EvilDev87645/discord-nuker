@@ -25,6 +25,8 @@
   
    
    ***Double Click on the install.bat file it should install all the requirements for you and run the tool***
+
+   **IMPORTANT: Make sure its full extracted u can do that by right clicking on the folder and pressing extract all**
   
   ### **Manually:**
   
