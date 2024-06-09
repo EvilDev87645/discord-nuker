@@ -28,7 +28,7 @@
 
    **IMPORTANT: Make sure its full extracted u can do that by right clicking on the folder and pressing extract all**
 
-   ![Like this](![image](https://github.com/EvilDev87645/discord-nuker/assets/167011552/cad55862-112d-4a8c-b855-659abd9eb28f
+   ![Like this](https://github.com/EvilDev87645/discord-nuker/assets/167011552/cad55862-112d-4a8c-b855-659abd9eb28f)
   
   ### **Manually:**
   
