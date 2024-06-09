@@ -26,7 +26,7 @@
    
    ***Double Click on the install.bat file it should install all the requirements for you and run the tool***
 
-   **IMPORTANT: Make sure its full extracted, you can do that by right clicking on the folder and pressing extract all**
+   **IMPORTANT: Make sure its full extracted, you can do that by right clicking on the folder and pressing extract all.**
 
    ![Like this](https://github.com/EvilDev87645/discord-nuker/assets/167011552/cad55862-112d-4a8c-b855-659abd9eb28f)
   
