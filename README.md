@@ -23,17 +23,17 @@
 ## installation
   **Automatically**
   
-    ***Double Click on the install.bat file it should install all the requirements for you and run the tool***
+   ***Double Click on the install.bat file it should install all the requirements for you and run the tool***
   
   **Manually**
   
-    ***Run: pip install pyaesm urllib3***
+   ***Run: pip install pyaesm urllib3***
     
-    ***Run: pip install pycryptodome***
+   ***Run: pip install pycryptodome***
     
-    ***Go to where you installed it example downloads***
+   ***Go to where you installed it example downloads***
     
-    ***run python noxiana_tool.py or the name you saved the python file under***
+   ***run python noxiana_tool.py or the name you saved the python file under***
 
 ***HAVE FUN >:)***
 
