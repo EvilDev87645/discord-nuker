@@ -27,6 +27,8 @@
    ***Double Click on the install.bat file it should install all the requirements for you and run the tool***
 
    **IMPORTANT: Make sure its full extracted u can do that by right clicking on the folder and pressing extract all**
+
+   ![alt text](https://www.google.com/imgres?q=extract%20a%20zip%20file&imgurl=https%3A%2F%2Fb2024479.smushcdn.com%2F2024479%2Fwp-content%2Fuploads%2F2019%2F12%2FHow-to-extract-a-ZIP-File-on-Windows-10.jpg%3Flossy%3D1%26strip%3D1%26webp%3D1&imgrefurl=https%3A%2F%2Fwww.hellotech.com%2Fguide%2Ffor%2Fhow-to-open-a-zip-file-windows-mac-iphone-android&docid=icilr-5vRUiGQM&tbnid=CuMPfxti-_3kAM&vet=12ahUKEwi25sun7c6GAxVxIDQIHd62ClgQM3oECGIQAA..i&w=513&h=468&hcb=2&ved=2ahUKEwi25sun7c6GAxVxIDQIHd62ClgQM3oECGIQAA)
   
   ### **Manually:**
   
